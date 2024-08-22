@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on an anniversary gift.
-- 🌱 I’m currently learning how to make 2 devises talk to eachother across the internet.
+- 🌱 I’m currently learning how to make 2 devices talk to eachother across the internet.
 - 🤔 I’m looking for help with why my http requests randomly take an extra 5-20sec not visible on nginx logs.
 - 📫 How to reach me: craftybuilder@gmail.com 
 - ⚡ Fun fact: I'm crying.
